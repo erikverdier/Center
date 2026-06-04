@@ -9,7 +9,7 @@ The composition was produced in 5th Order Ambisonics using the Ambix convention 
 ### Audio
 
 * **CENTER_Binaural.wav** – Binaural render intended for headphone listening.
-* **CENTER_Ambisonics_5OA_Ambix.wav** – Original 5th Order Ambisonics master in Ambix format (ACN/SN3D).
+* **CENTER_Ambisonics_5OA_Ambix.wav** – Original 5th Order Ambisonics master in Ambix format (ACN/SN3D). Not included in this repository due to GitHub file size limits; available upon request.
 
 ### Reaper Project
 
