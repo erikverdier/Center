@@ -13,7 +13,7 @@ The composition was produced in 5th Order Ambisonics using the Ambix convention 
 
 ### Reaper Project
 
-* **CENTER.rpp** – Original REAPER project containing the complete production workflow.
+* **Center_ErikVerdier.rpp** – Original REAPER project containing the complete production workflow.
 
 ### Documentation
 
